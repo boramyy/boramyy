@@ -1,5 +1,6 @@
 
-<video src="https://boramyy.github.io/static/magnolia-6a25fbcd22bec59ca6d2cbc1c5915f45.mp4" type="video/mp4" autoplay="" muted="" loop=""></video>
+![Hello 👋🏻](https://boramyy.github.io/static/sansooyoo-3539f385b391ab94b5a5776a1892a22d.jpg)
+
 
 <!--
 **boramyy/boramyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
