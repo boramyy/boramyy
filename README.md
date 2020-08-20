@@ -1,8 +1,5 @@
-<figure class="video_container">
-  <video controls="true" autoplay="" muted="" loop="">
-    <source src="https://boramyy.github.io/static/magnolia-6a25fbcd22bec59ca6d2cbc1c5915f45.mp4" type="video/mp4">
-  </video>
-</figure>
+
+<video src="https://boramyy.github.io/static/magnolia-6a25fbcd22bec59ca6d2cbc1c5915f45.mp4" type="video/mp4" autoplay="" muted="" loop=""></video>
 
 <!--
 **boramyy/boramyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
