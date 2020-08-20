@@ -1,5 +1,4 @@
-
-![flower](https://user-images.githubusercontent.com/33398764/90779529-e6518f80-e338-11ea-819c-6f5fcf09e86c.png)
+![flower](https://user-images.githubusercontent.com/33398764/90782458-dc7c5c00-e339-11ea-9ae6-862e5cc95ff2.png)
 
 
 <!--
